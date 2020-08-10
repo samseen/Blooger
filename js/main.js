@@ -9,5 +9,6 @@ $(document).ready(function(){
     })
 
     // owl-carousel for the blog
+    $('.owl-carousel').owlCarousel();
 
 });
