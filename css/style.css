@@ -70,6 +70,10 @@ span{
     font-family: var(--Abel);
 }
 
+/* .container{
+    margin: 0 5vw;
+} */
+
 /* Global classes */
 
 /* Navbar */
@@ -195,6 +199,7 @@ main .blog{
     background-position: right;
     height: 100vh;
     width: 100%;
+    background-size: 65%;
 }
 
 main .blog .blog-post{
@@ -222,6 +227,10 @@ main .blog-content .btn-blog{
 
 main .blog-content span{
     display: block;
+}
+
+section .container .owl-nav{
+    
 }
 
 /* --------------------- Blog Carousel ----------------------- */
