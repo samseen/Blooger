@@ -5,6 +5,12 @@
     src: url('../fonts/Abel/Abel-Regular.ttf');
 }
 
+/* Font Family - Anton */
+@font-face{
+    font-family: Anton;
+    src: url('../fonts/Anton/Anton-Regular.ttf');
+}
+
 /* Font Family - Josefin */
 @font-face{
     font-family: Josefin;
