@@ -274,7 +274,6 @@ main .site-content{
 
 main .post-content{
     width: 100%;
-    margin-bottom: 5rem;
 }
 
 main .site-content .post-content > .post-image, .post-title{
@@ -317,6 +316,24 @@ main .site-content .post-content .post-title .post-btn{
     border-radius: 0;
     padding: .7rem 1.5rem;
     background: var(--sky);
+}
+
+main .site-content .pagination{
+    justify-content: center;
+    color: var(--text-gray);
+    margin: 4rem 0;
+}
+
+main .site-content .pagination a{
+    padding: .6rem .9rem;
+    border-radius: 2rem;
+    margin: 0.3rem;
+    font-family: var(--Lexend);
+}
+
+main .site-content .pagination .pages{
+    background: var(--text-gray);
+    color: var(--white);
 }
 
 /* --------------------- Site Content ------------------------ */
