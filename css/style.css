@@ -481,6 +481,21 @@ footer.footer .rights h4 a{
     color: white;
 }
 
+footer.footer .move-up{
+    position: absolute;
+    right: 6%;
+    top: 50%;
+}
+
+footer.footer .move-up span{
+    color: var(--midnight);
+}
+
+footer.footer .move-up span:hover{
+    color: var(--white);
+    cursor: pointer;
+}
+
 /* --------------------- End Footer --------------------- */
 
 
