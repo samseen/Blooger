@@ -435,6 +435,31 @@ footer.footer .container > div{
     padding: 3rem .9rem;
 }
 
+footer.footer .container h2{
+    color: var(--white);
+}
+
+footer.footer .newsletter .form-element{
+    background: black;
+    display: inline-block;
+}
+
+footer.footer .newsletter .form-element input{
+    padding: .5rem .7rem;
+    border: none;
+    background: transparent;
+    color: white;
+    font-family: var(--Josefin);
+    font-size: 1rem;
+    width: 74%;
+}
+
+footer.footer .newsletter .form-element span{
+    background: var(--sky);
+    padding: .5rem .7rem;
+    cursor: pointer;
+}
+
 /* --------------------- End Footer --------------------- */
 
 
