@@ -379,7 +379,7 @@ main .site-content .sidebar .popular-post .post-title a{
 }
 
 main .site-content .sidebar .newsletter{
-    padding-top: 3rem;
+    padding-top: 10rem;
 }
 
 main .site-content .sidebar .newsletter .form-element{
@@ -399,6 +399,17 @@ main .site-content .sidebar .newsletter .form-btn{
     padding: .8rem 32%;
     margin: 1rem 0;
     background: var(--sky);
+}
+
+main .site-content .sidebar .popular-tags{
+    padding: 5rem 0;
+}
+
+main .site-content .sidebar .popular-tags .tags .tag{
+    background: var(--sky);
+    padding: .4rem 1rem;
+    border-radius: 3rem;
+    margin: .4rem .6rem;
 }
 
 /* --------------------- Sidebar -------------------------- */
